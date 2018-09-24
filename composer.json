@@ -1,0 +1,13 @@
+{
+    "name": "linicker/atividade-composer",
+    "description": "Atividade Composer",
+    "authors": [
+        {
+            "name": "Linicker",
+            "email": "linicker-willian@hotmail.com"
+        }
+    ],
+    "require": {
+        "endroid/qr-code": "^2.5"
+    }
+}
