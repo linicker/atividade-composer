@@ -7,9 +7,15 @@
 	<form method="POST" action="action.php">
 		<table align="center">
 			<tr>
-				<td>String: </td>
+				<td>Data de Nascimento: </td>
 				<td>
-					<input type="text" name="string">
+					<input type="text" name="dn">
+				</td>
+			</tr>
+			<tr>
+				<td>Email: </td>
+				<td>
+					<input type="text" name="email">
 				</td>
 			</tr>
 			<tr>
